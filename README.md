@@ -25,8 +25,7 @@ A list of my favorite 3-5 applications and 2-3 features that make them my favori
 An app idea that I would love to build.
 
 ## DueNext
-I started developing this app but I would still like to expand on it
-I want to gamify the planning and completion of assignments and allow users to track assignments and their grades on past assignments
+DueNext is a student-focused productivity app designed to simplify assignment tracking and grading while making the planning and completion of tasks engaging and fun. The app combines gamification with organization tools, enabling users to create, track, and manage their assignments across different subjects, all while improving motivation through rewards and analytics.
 
 ### Features
 * **Color Coded Assignments/Subjects**: I want subjects and assignments to be color coded so that organization is easy
